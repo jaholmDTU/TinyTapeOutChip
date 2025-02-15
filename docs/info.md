@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+TBD. Right now it is simply a 3-bit adder outputting a 4-bit number.
 
 ## How to test
 
-Explain how to use your project
+There are two sets of inputs IN0-IN2 and IN4-IN6, there are the two 3-bit numbers that are added.
+The output bits are OUT0-OUT3, a 4-bit number.
 
 ## External hardware
 
