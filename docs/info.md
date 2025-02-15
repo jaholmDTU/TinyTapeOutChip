@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-TBD. Right now it is simply a 3-bit adder outputting a 4-bit number.
+4-bit adder outputting a 5-bit number.
+Two input numbers: IN0-IN3 and IN4-IN6
+Output bits are OUT0-OUT4
 
 ## How to test
 
-There are two sets of inputs IN0-IN2 and IN4-IN6, there are the two 3-bit numbers that are added.
-The output bits are OUT0-OUT3, a 4-bit number.
+Enable the inputs to create two numbers. See if output matches.
+
 
 ## External hardware
 
